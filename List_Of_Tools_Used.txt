@@ -11,7 +11,7 @@ python 3.6
 MongoDB Atlas 4.2
 NodeJS v10.17.0
 
-FREE TO USE
+FREE TO USE / COMMERCIAL
 ------------
 Adobe XD v24
 
